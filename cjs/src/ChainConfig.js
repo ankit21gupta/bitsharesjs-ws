@@ -17,7 +17,7 @@ _this = {
         BitShares: {
             core_asset: "BTS",
             address_prefix: "BTS",
-            chain_id: "3aef3997194701308d57a65214a7a015d98382ab66a9bc0d655de80842b6bfc5"
+            chain_id: "c8dafba6388424ce05dd533c0bdd8768fb7dde4c7cf16769df382b55c334b996"
         },
         Muse: {
             core_asset: "MUSE",
